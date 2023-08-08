@@ -1,6 +1,8 @@
 # koa-mongo-cli
 
-## Installation
+## koa+mongo 自用脚手架
+
+Installation
 
 ```sh
 $ npm i koa-mongo-cli -g
