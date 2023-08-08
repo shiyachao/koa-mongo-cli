@@ -1,6 +1,6 @@
 # koa-mongo-cli
 
-## koa+mongo 自用脚手架
+## koa+mongo 脚手架
 
 Installation
 
