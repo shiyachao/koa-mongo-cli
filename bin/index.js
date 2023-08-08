@@ -3,6 +3,8 @@ const program = require("commander");
 const download = require("download-git-repo");
 const handlebars = require("handlebars");
 const fs = require("fs");
+const { version } = require("../package.json");
+program.version(version);
 
 program
   .command("create <project>")

@@ -1,6 +1,6 @@
 {
   "name": "koa-mongo-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "init koa&&mongoose web application",
   "main": "index.js",
   "bin": {
