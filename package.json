@@ -1,0 +1,19 @@
+{
+  "name": "koa-mongo-cli",
+  "version": "1.0.5",
+  "description": "init koa&&mongoose web application",
+  "main": "index.js",
+  "bin": {
+    "koa-mongo-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syc",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.7"
+  }
+}
